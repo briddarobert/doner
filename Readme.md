@@ -12,3 +12,4 @@ TODO: Add remaining parts
 > Dependencies in this repository are managed with `pipenv`.
 
 - OpenCV: image processing
+- NumPy (Required by OpenCV): vector maths
