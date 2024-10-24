@@ -4,4 +4,5 @@ This software was written to drive our robot “Ciano” in the regional Robocup
 # Hardware
 - [Raspberry Pi 4 Model B (4GB RAM variant)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb)
 - [Raspberry Pi Camera Module 2](https://www.raspberrypi.com/products/camera-module-v2/)
+
 TODO: Add remaining parts
